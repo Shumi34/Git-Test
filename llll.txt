@@ -1,0 +1,22 @@
+POSTMAN site to learn:
+
+https://www.youtube.com/watch?v=YRwbkkW0CFs&list=PL8VbCbavWfeG_4bXreIf59CJc7KkKRf5o&index=33
+🔥 What Are Some Good Websites to Learn the Tool Postman?
+
+✅ https://learning.postman.com/
+✅ https://scrolltest.com/category/api-t...
+✅ https://www.guru99.com/postman-tutori...
+✅ https://www.javatpoint.com/postman
+✅ https://www.toolsqa.com/postman-tutor...
+✅ https://www.softwaretestinghelp.com/a...
+
+❤️ Bonus -  
+https://github.com/dawitnida/awesome-...
+https://github.com/DannyDainton/All-T...
+
+Task API:
+https://d2h1nbmw1jjnl.cloudfront.net/lesson_resources/resources/000/000/237/original/30_Days_of_API_TestingV2.pdf
+
+https://www.javatpoint.com/postman
+
+https://www.tutorialspoint.com/rest-api-testing-tutorial-sample-manual-test-case
