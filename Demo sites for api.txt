@@ -1,0 +1,17 @@
+https://qavalidation.com/2020/09/demo-sites-to-practice-api-automation-testing.html/
+
+
+https://www.appsloveworld.com/sample-rest-api-url-for-testing-with-authentication
+
+https://dev.to/promode/7-demo-websites-which-you-can-use-to-perform-api-testing-1p6c
+
+https://bookstore.toolsqa.com/swagger/
+
+https://restful-booker.herokuapp.com/apidoc/index.html
+
+
+
+http status code:: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+json path finder for arrange the value of response:
+	 https://jsonpathfinder.com/
